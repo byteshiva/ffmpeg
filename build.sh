@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-FFMPEG_VERSION=4.1.3
+FFMPEG_VERSION=4.2.2
 
 rm -rf ffmpeg-${FFMPEG_VERSION}*
 wget https://ffmpeg.org/releases/ffmpeg-${FFMPEG_VERSION}.tar.bz2
